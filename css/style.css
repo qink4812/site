@@ -1,0 +1,18 @@
+body{
+	background: #CCC;
+}
+.container{
+	width: 100%;
+
+}
+.block_text{
+	margin: 0 auto;
+	background: #1DE;
+}
+.text p{
+	text-align: center;
+	font-family: "Mininon pro";
+	font-size: 20px;
+	color: #FD0;
+	text-shadow: 0 0 15px #000;
+}
